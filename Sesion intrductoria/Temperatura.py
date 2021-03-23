@@ -1,0 +1,6 @@
+temp = int(input())
+if temp > 30: print('hace calor')
+elif temp < 10: print('hace frio')
+else: print('esta bien')
+if temp >= 100: print('hierve')
+if temp <= 0: print('se congela')
